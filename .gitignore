@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+*.spec
+build/
+dist/
+*.7z
+root_uImage*
+DL_MF286R_*.exe
+MF286R_OpenWrt_Stok_Donus*.exe
