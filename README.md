@@ -2,6 +2,8 @@
 
 ![ZTE MF286R OpenWrt Banner](screenshots/banner.jpg)
 
+![platform: Windows (x86 / x64)](https://img.shields.io/badge/platform-Windows%20(x86%20%2F%20x64)-0078D6?logo=windows&logoColor=white) ![python: Tkinter GUI](https://img.shields.io/badge/python-Tkinter%20GUI-3776AB?logo=python&logoColor=white) ![UART: Not Required (SSH)](https://img.shields.io/badge/UART-Not%20Required%20(SSH)-brightgreen) ![license: MIT](https://img.shields.io/badge/license-MIT-green)
+
 A standalone GUI utility (written in Python / Tkinter and packaged as standalone **64-bit** and **32-bit Windows 7/8/10/11** executables) that restores official **Stock ZTE Firmware** onto a **ZTE MF286R** router currently running **OpenWrt**—directly over a standard Ethernet cable via SSH (`192.168.1.1`), **without requiring UART/Serial access or TFTP recovery**.
 
 > [!IMPORTANT]
